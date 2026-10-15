@@ -6,7 +6,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riftback/.github/main/assets/profile-heading.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riftback/.github/main/assets/profile-heading-dark-v2.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riftback/.github/main/assets/profile-heading-light.svg">
     <img alt="Old seasons. New memories." src="https://raw.githubusercontent.com/riftback/.github/main/assets/profile-heading-light.svg" width="540">
   </picture>
