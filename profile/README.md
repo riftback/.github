@@ -15,14 +15,17 @@
 Riftback brings players back to earlier eras of Fortnite.<br>
 Familiar places. Fresh memories. One more round with friends.
 
-**Revisit the classics**<br>
-Rediscover the seasons that made you fall in love with Fortnite.
+**Revisit the classics**
 
-**Find your favorite places**<br>
-Return to familiar landscapes and the places behind your best stories.
+> Rediscover the seasons that made you fall in love with Fortnite.
 
-**Make new memories**<br>
-Share the nostalgia with friends - and give those old stories a new chapter.
+**Find your favorite places**
+
+> Return to familiar landscapes and the places behind your best stories.
+
+**Make new memories**
+
+> Share the nostalgia with friends - and give those old stories a new chapter.
 
 <br>
 
